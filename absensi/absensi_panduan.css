@@ -1,5 +1,5 @@
-h1 {font-family:Verdana, Geneva, Tahoma, sans-serif; color:black; text-align: center; text-transform: small-caps;}
-dt {font-family:cambria; font-size: 19px; text-align: center;}
-body {background-color: whitesmoke; color:black; font-family: Arial, Helvetica, sans-serif;}
-a {text-decoration: none; color:darkblue}
-.p7 {text-align: end; color:black; font-family: Arial, Helvetica, sans-serif; font-size: 10px;}
+h1 {font-family:Impact, Haettenschweiler, sans-serif; font-weight:lighter; color:white; font-size: xx-large; text-align: center; text-transform: capitalize;}
+dt {font-family:Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;}
+body {background-color:darkblue; color:white; font-family:Verdana, Geneva, Tahoma, sans-serif;}
+a {text-decoration: none; color:yellow}
+.p7 {text-align: end; color:white; font-family: Arial, Helvetica, sans-serif; font-size: 10px;}
